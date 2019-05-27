@@ -1,0 +1,16 @@
+// Enter READ/WRITE commands into this file
+// READ
+// WRITE
+READ bin 100
+READ 19
+WRITE hex CC32
+READ bin 100000000000000
+READ bin 100000000000000
+WRITE bin 110000000000001
+WRITE hex A0000
+WRITE hex F0000
+WRITE hex C0000
+
+// 0 - 3 приоритет
+// 3 - 2 приоритет
+// 1 - 1 приоритет
